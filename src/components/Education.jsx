@@ -57,10 +57,12 @@ export default function Education() {
                     </div>
                     <div className="timeline-end mb-10">
                         <time className="font-mono italic">August 2024-May 2025</time>
-                        <div className="text-lg font-black">Looking for Work Integrated Learning</div>
-                        Actively seeking a <span className='text-green-700 font-semibold'>Work Integrated Learning (WIL)</span> program to undertake a 
-                        project with a group of three members, including myself. 
-                        I am particularly interested in <span className='text-green-700 font-semibold'>web application projects or related endeavors.</span> My goal is to contribute to a dynamic team, gain practical experience, and add value to the collaborating company. I look forward to exploring potential opportunities for collaboration.
+                        <div className="text-lg font-black">Back-end Developer Internship @Tokio Marine Life Insurance</div>
+                        I'm interning as a Back-end Developer at Tokio Marine Life Insurance,
+                        where I'll be gaining valuable experience in building and maintaining
+                        robust systems utilizing <span className='text-green-700 font-semibold'>C#, .NET, Node.js, and SQL</span>. This internship
+                        will allow me to apply my programming skills to the insurance industry,
+                        contributing to the development of efficient and reliable applications.
                     </div>
                     <hr />
                 </li>
