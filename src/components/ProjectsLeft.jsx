@@ -3,8 +3,8 @@ import Member from './Member'
 import Php from '../assets/php.png'
 import Php2 from '../assets/php2.png'
 import Medkid from '../assets/medkid.png'
-import Businage1 from '../assets/businage1.png'
-import Businage2 from '../assets/businage2.png'
+import Businage1 from '../assets/Businage1.png'
+import Businage2 from '../assets/Businage2.png'
 
 export default function ProjectsLeft() {
     return (
