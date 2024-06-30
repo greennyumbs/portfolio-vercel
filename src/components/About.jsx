@@ -27,7 +27,7 @@ export default function About() {
                         </p>
                         <div>
                             <p className='text-2xl font-bold pr-5'>Technical skills</p>
-                            <Skills url="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,php,mysql,firebase,vite,py,mongodb,js,ts,c,css,html,postman&perline=8" />
+                            <Skills url="https://skillicons.dev/icons?i=nestjs,redis,express,dotnet,js,ts,flutter,react,html,css,go,dart,c,cs,py,php,mysql,firebase,supabase,mongodb,nodejs,docker,kubernetes,git&perline=12" />
                         </div>
                     </div>
                 </div>
